@@ -1,4 +1,4 @@
-# Aspiring Full Stack Development (MERN ) 
+#Aspiring MERN Stack Developer | Backend-Focused
 
 
 # 💻 Tech Stack:
