@@ -35,12 +35,12 @@
 
 ### 🔹 Modify App
 
-👉 Live: [https://your-demo-link.com]((https://under-maintainance-link.com)
+👉 Live: [https://your-demo-link.com]((https://under-main-link.com)
 👉 Code: [https://github.com/adarshhdeveloper/modify-app](https://github.com/adarshhdeveloper/modify-app)
 
 ### 🔹 AI Battle Arena ⚔️
 
-👉 Live: [https://your-demo-link.com]((https://under-maintainance-link.com)
+👉 Live: [https://your-demo-link.com]((https://under-mlink.com)
 👉 Code: [https://github.com/adarshhdeveloper/ai-battle-arena](https://github.com/adarshhdeveloper/ai-battle-arena)
 
 ---
