@@ -21,28 +21,6 @@
 
 ---
 
-# 🚀 Projects
 
-### 🔹 Perplexity AI Clone
-
-👉 Live: [https://your-demo-link.com](https://under-maintainance-link.com)
-👉 Code: [https://github.com/adarshhdeveloper/perplexity-clone](https://github.com/adarshhdeveloper/perplexity-clone)
-
-### 🔹 Instagram Clone
-
-👉 Live: [https://your-demo-link.com](https://under-maintainance-link.com)
-👉 Code: [https://github.com/adarshhdeveloper/instagram-clone](https://github.com/adarshhdeveloper/instagram-clone)
-
-### 🔹 Modify App
-
-👉 Live: [https://your-demo-link.com]((https://under-main-link.com)
-👉 Code: [https://github.com/adarshhdeveloper/modify-app](https://github.com/adarshhdeveloper/modify-app)
-
-### 🔹 AI Battle Arena ⚔️
-
-👉 Live: [https://your-demo-link.com]((https://under-mlink.com)
-👉 Code: [https://github.com/adarshhdeveloper/ai-battle-arena](https://github.com/adarshhdeveloper/ai-battle-arena)
-
----
 
 🔥 Currently focused on backend development & building scalable APIs
